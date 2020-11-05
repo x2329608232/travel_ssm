@@ -1,0 +1,7 @@
+com\kfx\controller\PermissionController.class
+com\kfx\controller\OrdersController.class
+com\kfx\controller\SysLogController.class
+com\kfx\controller\LogAop.class
+com\kfx\controller\UserController.class
+com\kfx\controller\ProductController.class
+com\kfx\controller\RoleController.class
